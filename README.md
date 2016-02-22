@@ -6,6 +6,8 @@ Launchpad console online to play music with computer keyboard
 + __Creator:__ [@AndreaBazerla](https://twitter.com/AndreaBazerla)
 + __License:__ [The MIT License](https://github.com/andbaz/launchbaz/blob/master/LICENSE.md)
 
+![alt text][cover]
+
 ## Project
 Launchbaz is a launchpad console online to play music with computer keyboard. Code and project are open source, so you can get involved. Play, share and hack to create the best platform to make music online!  
 
@@ -25,8 +27,11 @@ The project is a forked of [_s](https://github.com/Automattic/_s) starter theme 
 
 ## Credits
 Created by [@AndreaBazerla](https://twitter.com/AndreaBazerla)  
-> Hi, I'm __Andrea Bazerla__. I was born in Verona, Italy in '93. I love technology, design and creative projects. I've created __Launchbaz__ to challenge myself in web development and web design, and to share this to the community to create the best platform open source to play music online, together. Now I'm looking for a job, contact me if you want a website or an app. Follow me on [Twitter](https://twitter.com/AndreaBazerla) and [Linkedin](https://www.linkedin.com/in/andreabazerla)! Thanks
+> Hi, I'm __Andrea Bazerla__. I was born in Verona, Italy in '93. I love technology, design and creative projects. I've created __Launchbaz__ to challenge myself in web development and web design, to share it to the community and to create the best platform open source to play music online, together. Now I'm looking for a job, contact me if you want a website or an app. Follow me on [Twitter](https://twitter.com/AndreaBazerla) and [Linkedin](https://www.linkedin.com/in/andreabazerla)! Enjoy, thanks.
 
 ## License
 Copyright (c) 2016 Andrea Bazerla  
 Released under [The MIT License](https://github.com/andbaz/launchbaz/blob/master/LICENSE.md)
+
+[logo]: http://imageshack.com/a/img924/5369/IK6zYY.png "Launchbaz"
+[cover]: http://imageshack.com/a/img923/4947/xGdaU3.png "Launchbaz"
