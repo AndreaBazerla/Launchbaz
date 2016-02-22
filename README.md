@@ -17,7 +17,7 @@ The project is a forked of [_s](https://github.com/Automattic/_s) starter theme 
 + __Design:__ /sass/_custom.scss
 + __Server:__ /inc/php.php
 + __Client:__ /js/js.js
-+ __Sounds:__ /kit/1/_/_.mp3
++ __Sounds:__ /kit/1/.../...mp3
 
 ## Changelog
 + __1.0__
