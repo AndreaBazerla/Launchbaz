@@ -29,7 +29,7 @@ The project is forked by [_s](https://github.com/Automattic/_s) starter theme of
 
 ## Credits
 Created by [@AndreaBazerla](https://twitter.com/AndreaBazerla)  
-> Hi, I'm __Andrea Bazerla__. I was born in Verona, Italy in '93. I love technology, design and creative projects. I've created __Launchbaz__ to challenge myself in web development, to share it to the community and to create the best platform open source to play music online, together. Now I'm studing Computer Science, but I'm looking for a job also so contact me if you want a website or an app. Follow me on [Twitter](https://twitter.com/AndreaBazerla) and [Linkedin](https://www.linkedin.com/in/andreabazerla)! Enjoy, thanks.
+> Hi, I'm __Andrea Bazerla__. I was born in Verona, Italy in '93. I love technology, design and creative projects. I've created __Launchbaz__ to challenge myself in web development, to share it to the community and to create the best platform open source to play music online, together. Now I'm studing Computer Science, but I'm looking for a job also...so if you want a website or an app, contact me. Follow me on [Twitter](https://twitter.com/AndreaBazerla) and [Linkedin](https://www.linkedin.com/in/andreabazerla)! Enjoy, thanks.
 
 ## License
 Copyright (c) 2016 Andrea Bazerla  
