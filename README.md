@@ -11,7 +11,7 @@ Launchpad console online to play music with computer keyboard
 ## Project
 Launchbaz is a launchpad console online to play music with computer keyboard. Code and project are open source, so you can get involved. Play, share and hack to create the best platform to make music online!  
 
-The project is a forked of [_s](https://github.com/Automattic/_s) starter theme of [WordPress](https://github.com/WordPress/WordPress) to be easy to install, edit and share.
+The project is forked by [_s](https://github.com/Automattic/_s) starter theme of [WordPress](https://github.com/WordPress/WordPress) to be easy to install, edit and share.
 
 + __Index:__ [/launchbaz.php](https://github.com/andbaz/launchbaz/blob/master/launchbaz.php)
 + __Design:__ [/sass/_custom.scss](https://github.com/andbaz/launchbaz/blob/master/sass/_custom.scss)
@@ -20,6 +20,8 @@ The project is a forked of [_s](https://github.com/Automattic/_s) starter theme 
 + __Sounds:__ [/kit/1/.../...mp3](https://github.com/andbaz/launchbaz/tree/master/kit/1)
 
 ## Changelog
++ __1.1__  
+	+ [Loading slow solved](https://github.com/andbaz/launchbaz/issues/1)
 + __1.0__
 	+ Created the project
 	+ Created [README.md](https://github.com/andbaz/launchbaz/blob/master/README.md)
@@ -27,7 +29,7 @@ The project is a forked of [_s](https://github.com/Automattic/_s) starter theme 
 
 ## Credits
 Created by [@AndreaBazerla](https://twitter.com/AndreaBazerla)  
-> Hi, I'm __Andrea Bazerla__. I was born in Verona, Italy in '93. I love technology, design and creative projects. I've created __Launchbaz__ to challenge myself in web development and web design, to share it to the community and to create the best platform open source to play music online, together. Now I'm looking for a job, contact me if you want a website or an app. Follow me on [Twitter](https://twitter.com/AndreaBazerla) and [Linkedin](https://www.linkedin.com/in/andreabazerla)! Enjoy, thanks.
+> Hi, I'm __Andrea Bazerla__. I was born in Verona, Italy in '93. I love technology, design and creative projects. I've created __Launchbaz__ to challenge myself in web development, to share it to the community and to create the best platform open source to play music online, together. Now I'm studing Computer Science, but I'm looking for a job also so contact me if you want a website or an app. Follow me on [Twitter](https://twitter.com/AndreaBazerla) and [Linkedin](https://www.linkedin.com/in/andreabazerla)! Enjoy, thanks.
 
 ## License
 Copyright (c) 2016 Andrea Bazerla  
