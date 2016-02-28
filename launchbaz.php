@@ -2,19 +2,19 @@
 
 	/**
 	 * Template Name: Launchbaz
-	 * 
+	 *
 	 * @link https://codex.wordpress.org/Template_Hierarchy
-	 * 
-	 * @package Launchbaz 
+	 *
+	 * @package Launchbaz
 	 */
-	 
-get_header(); ?>
 
+get_header(); ?>
 
 	<script type="text/javascript">
 		var dir = "<?php get_dir(); ?>";
 		var kit = "<?php get_kit(); ?>";
 		var num = "<?php get_num(); ?>";
+		var mp3Arr = '<?php get_mp3(); ?>';
 	</script>
 
 	<div id="primary" class="content-area">
@@ -32,7 +32,7 @@ get_header(); ?>
 
 			endwhile; // End of the loop.
 			*/?>
-			
+
 			<div id="menu" class="ghost">
 				<form style="float:right" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_black">
 					<input type="hidden" name="cmd" value="_s-xclick">
@@ -46,7 +46,7 @@ get_header(); ?>
 				<a href="https://twitter.com/share?url=http://www.launchbaz.org/&via=Launchbaz_&text=Play%20music%20with%20your%20computer%27s%20keyboard%20:D" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"><img class="social" src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" /></a>
 				<a href="http://www.facebook.com/share.php?u=http://www.launchbaz.org/&title=Launchbaz&description=Launchpad%20console%20online%20to%20play%20music%20with%20your%20computer%27s%20keyboard" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"><img class="social" src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" /></a>
 			</div>
-			
+
 			<div id="keyboard">
 				<img id="37" class="row ghost" src="<?php echo get_template_directory_uri(); ?>/img/left.png" style="left: -20px">
 				<img id="39" class="row ghost" src="<?php echo get_template_directory_uri(); ?>/img/right.png" style="left: 650px">
@@ -98,7 +98,7 @@ get_header(); ?>
 				</div>
 				<div id="32" class="recoff"></div>
 			</div>
-			
+
 		</main><!-- #main -->
 	</div><!-- #primary -->
 
