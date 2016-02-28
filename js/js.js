@@ -329,16 +329,11 @@ jQuery(document).ready(function($) {
 	}
 
 	function setKit(dir,kit) {
-		p = 0;
+		mp3Arr = JSON.parse(mp3Arr);
 		for (i=1;i<4;i++) {
 			for (j=65;j<91;j++) {
-				p=p+1.28;
-				console.log(parseInt(p)+"%");
 				mp3[i][j] = new Audio(themeURL+"/kit/"+dir+"/"+i+"/"+String.fromCharCode(j)+".mp3");
-				http = new XMLHttpRequest();
-				http.open("HEAD", themeURL+"/kit/"+dir+"/"+i+"/"+String.fromCharCode(j)+".mp3", false);
-				http.send();
-				if(http.status!=404) {
+				if(mp3Arr[i][j]) {
 					mp3Exist[i][j] = true;
 				} else {
 					mp3Exist[i][j] = false;
