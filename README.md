@@ -13,17 +13,17 @@ Launchbaz is a launchpad console online to play music with computer keyboard. Co
 
 The project is a forked of [_s](https://github.com/Automattic/_s) starter theme of [WordPress](https://github.com/WordPress/WordPress) to be easy to install, edit and share.
 
-+ __Index:__ [/launchbaz.php](https://github.com/andbaz/launchbaz/blob/318979c36cf328793a7ca6ecf42c32b066e19298/launchbaz.php)
-+ __Design:__ [/sass/_custom.scss](https://github.com/andbaz/launchbaz/blob/318979c36cf328793a7ca6ecf42c32b066e19298/sass/_custom.scss)
-+ __Server:__ [/inc/php.php](https://github.com/andbaz/launchbaz/blob/318979c36cf328793a7ca6ecf42c32b066e19298/inc/php.php)
-+ __Client:__ [/js/js.js](https://github.com/andbaz/launchbaz/blob/318979c36cf328793a7ca6ecf42c32b066e19298/js/js.js)
-+ __Sounds:__ [/kit/1/.../...mp3](https://github.com/andbaz/launchbaz/tree/318979c36cf328793a7ca6ecf42c32b066e19298/kit/1)
++ __Index:__ [/launchbaz.php](https://github.com/andbaz/launchbaz/blob/master/launchbaz.php)
++ __Design:__ [/sass/_custom.scss](https://github.com/andbaz/launchbaz/blob/master/sass/_custom.scss)
++ __Server:__ [/inc/php.php](https://github.com/andbaz/launchbaz/blob/master/inc/php.php)
++ __Client:__ [/js/js.js](https://github.com/andbaz/launchbaz/blob/master/js/js.js)
++ __Sounds:__ [/kit/1/.../...mp3](https://github.com/andbaz/launchbaz/tree/master/kit/1)
 
 ## Changelog
 + __1.0__
 	+ Created the project
-	+ Created [README.md](https://github.com/andbaz/launchbaz/blob/318979c36cf328793a7ca6ecf42c32b066e19298/README.md)
-	+ Created [LICENSE.md](https://github.com/andbaz/launchbaz/blob/318979c36cf328793a7ca6ecf42c32b066e19298/LICENSE.md)
+	+ Created [README.md](https://github.com/andbaz/launchbaz/blob/master/README.md)
+	+ Created [LICENSE.md](https://github.com/andbaz/launchbaz/blob/master/LICENSE.md)
 
 ## Credits
 Created by [@AndreaBazerla](https://twitter.com/AndreaBazerla)  
