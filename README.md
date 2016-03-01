@@ -13,7 +13,7 @@ Launchbaz is a launchpad console online to play music with computer keyboard. Co
 
 The project is forked by [_s](https://github.com/Automattic/_s) starter theme of [WordPress](https://github.com/WordPress/WordPress) to be easy to install, edit and share.  
 
-To get involved, join in [Slack](launchbaz.slack.com) chat!
+To get involved, join in [Slack](https://launchbaz.slack.com/messages/launchbaz/) chat!
 
 + __Index:__ [/launchbaz.php](https://github.com/andbaz/launchbaz/blob/master/launchbaz.php)
 + __Design:__ [/sass/_custom.scss](https://github.com/andbaz/launchbaz/blob/master/sass/_custom.scss)
