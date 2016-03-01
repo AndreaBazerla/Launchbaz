@@ -11,7 +11,9 @@ Launchpad console online to play music with computer keyboard
 ## Project
 Launchbaz is a launchpad console online to play music with computer keyboard. Code and project are open source, so you can get involved. Play, share and hack to create the best platform to make music online!  
 
-The project is forked by [_s](https://github.com/Automattic/_s) starter theme of [WordPress](https://github.com/WordPress/WordPress) to be easy to install, edit and share.
+The project is forked by [_s](https://github.com/Automattic/_s) starter theme of [WordPress](https://github.com/WordPress/WordPress) to be easy to install, edit and share.  
+
+To get involved, join in [Slack](launchbaz.slack.com) chat!
 
 + __Index:__ [/launchbaz.php](https://github.com/andbaz/launchbaz/blob/master/launchbaz.php)
 + __Design:__ [/sass/_custom.scss](https://github.com/andbaz/launchbaz/blob/master/sass/_custom.scss)
