@@ -2,7 +2,7 @@
 Launchpad console online to play music with computer keyboard  
 [www.launchbaz.org](http://www.launchbaz.org/)  
 
-+ __Version:__ 1.0
++ __Version:__ 1.1
 + __Creator:__ [@AndreaBazerla](https://twitter.com/AndreaBazerla)
 + __License:__ [The MIT License](https://github.com/andbaz/launchbaz/blob/master/LICENSE.md)
 
