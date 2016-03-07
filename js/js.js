@@ -332,7 +332,8 @@ jQuery(document).ready(function($) {
 		mp3Arr = JSON.parse(mp3Arr);
 		for (i=1;i<4;i++) {
 			for (j=65;j<91;j++) {
-				mp3[i][j] = new Audio(themeURL+"/kit/"+dir+"/"+i+"/"+String.fromCharCode(j)+".mp3");
+				if(mp3Arr[i][j])
+					mp3[i][j] = new Audio(themeURL+"/kit/"+dir+"/"+i+"/"+String.fromCharCode(j)+".mp3");
 				if(mp3Arr[i][j]) {
 					mp3Exist[i][j] = true;
 				} else {
