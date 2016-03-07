@@ -41,10 +41,11 @@ get_header(); ?>
 					<img alt="" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
 				</form>
 
-				<a href="https://twitter.com/AndreaBazerla" target="_blank"><img class="social" src="<?php echo get_template_directory_uri(); ?>/img/profile.png" /></a>
 				<a href="https://github.com/andbaz/launchbaz" target="_blank"><img class="social" src="<?php echo get_template_directory_uri(); ?>/img/github.png" /></a>
-				<a href="https://twitter.com/share?url=http://www.launchbaz.org/&via=Launchbaz_&text=Play%20music%20with%20your%20computer%27s%20keyboard%20:D" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"><img class="social" src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" /></a>
-				<a href="http://www.facebook.com/share.php?u=http://www.launchbaz.org/&title=Launchbaz&description=Launchpad%20console%20online%20to%20play%20music%20with%20your%20computer%27s%20keyboard" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"><img class="social" src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" /></a>
+				<a href="https://it.linkedin.com/in/andreabazerla" target="_blank"><img class="social" src="<?php echo get_template_directory_uri(); ?>/img/linkedin.png" /></a>
+				<a href="https://twitter.com/AndreaBazerla" target="_blank"><img class="social" src="<?php echo get_template_directory_uri(); ?>/img/profile.png" /></a>
+				<a href="https://twitter.com/share?url=http://www.launchbaz.org/&via=Launchbaz_&text=Play%20music%20with%20your%20computer%20keyboard%20:D" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"><img class="social" src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" /></a>
+				<a href="http://www.facebook.com/share.php?u=http://www.launchbaz.org/&title=Launchbaz&description=Launchpad%20console%20online%20to%20play%20music%20with%20your%20computer%20keyboard" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"><img class="social" src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" /></a>
 			</div>
 
 			<div id="keyboard">
