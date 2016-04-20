@@ -15,6 +15,7 @@ The project is forked by [_s](https://github.com/Automattic/_s) starter theme of
 
 To get involved, join in [Slack](https://launchbaz.slack.com/messages/launchbaz/) chat!
 
+## Files  
 + __Index:__ [/launchbaz.php](https://github.com/andbaz/launchbaz/blob/master/launchbaz.php)
 + __Design:__ [/sass/_custom.scss](https://github.com/andbaz/launchbaz/blob/master/sass/_custom.scss)
 + __Server:__ [/inc/php.php](https://github.com/andbaz/launchbaz/blob/master/inc/php.php)
