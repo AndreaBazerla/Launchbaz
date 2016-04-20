@@ -32,7 +32,7 @@ To get involved, join in [Slack](https://launchbaz.slack.com/messages/launchbaz/
 
 ## Credits
 Created by [@AndreaBazerla](https://twitter.com/AndreaBazerla)  
-> Hi, I'm __Andrea Bazerla__. I was born in Verona, Italy in '93. I love technology, design and creative projects. I've created __Launchbaz__ to challenge myself in web development, to share it to the community and to create the best platform open source to play music online, together. Now I'm studing Computer Science, but I'm looking for a job abroad also...so if you want a website or an app, contact me. Follow me on [Twitter](https://twitter.com/AndreaBazerla) and [Linkedin](https://www.linkedin.com/in/andreabazerla)! Enjoy, thanks.
+> Hi, I'm __Andrea Bazerla__. I was born in Verona, Italy in '93. I love technology, design and creative projects. I've created __Launchbaz__ to challenge myself in web development, to share it to community and to create the best platform open source to play music online, together. Now I'm studing Computer Science, but I'm looking for a job abroad also...so if you want a website or an app, contact me. Follow me on [Twitter](https://twitter.com/AndreaBazerla) and [Linkedin](https://www.linkedin.com/in/andreabazerla)! Enjoy, thanks.
 
 ## License
 Copyright © 2016 Andrea Bazerla  
